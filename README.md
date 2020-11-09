@@ -16,4 +16,7 @@ or
 nodemon index.js
 ```
 
-default endpoint is localhost:3000
+default setting
+
+* API header is soap api, you can change to application/json for RESTful api  
+* endpoint is localhost:3000
